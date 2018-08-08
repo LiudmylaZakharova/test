@@ -6,3 +6,4 @@ ljg
 jp[ikloh
 
 hhhhjhsdfghkj1ljl
+echo "notepad";
