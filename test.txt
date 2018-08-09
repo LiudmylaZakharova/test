@@ -1,9 +1,1 @@
-home work
-at th
-gfbvgfbgf
-ljg
-
-jp[ikloh
-
-hhhhjhsdfghkj1ljl
-echo "notepad";
+The test text just to check how to work with github.
